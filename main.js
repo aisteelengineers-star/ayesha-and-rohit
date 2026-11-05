@@ -40,7 +40,7 @@
           venue: 'India Habitat Centre, New Delhi',
           location: 'Lodhi Road, Near Air Force Bal Bharati School, New Delhi',
           map: 'https://maps.google.com/?q=India+Habitat+Centre+Lodhi+Road+New+Delhi',
-          artwork: 'assets/royal-crimson-hero.jpg'
+          backgroundArtwork: 'assets/royal-crimson-hero.jpg'
         }
       ]
     }
